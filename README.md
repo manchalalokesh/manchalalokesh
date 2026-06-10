@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 B.Tech graduate passionate about **Data Science & Machine Learning**
 - 🌍 Based in **Medchal, Hyderabad, Telangana, India**
@@ -18,26 +18,26 @@
 
 ---
 
-## 🚀 Projects
+🚀 Projects
 
-### 📦 [APL Logistics Supply Chain Analytics](https://github.com/manchalalokesh/api_logistics)
+📦 [APL Logistics Supply Chain Analytics](https://github.com/manchalalokesh/api_logistics)
 - End-to-end ML pipeline for supply chain optimization
 - Built with **Python, Streamlit, Random Forest, XGBoost**
 - Features demand forecasting, route optimization & Power BI dashboards
 
-### 👥 [Employee Attrition Prediction System](https://github.com/manchalalokesh/Employee_Attrition_Prediction_System)
+👥 [Employee Attrition Prediction System](https://github.com/manchalalokesh/Employee_Attrition_Prediction_System)
 - ML classification model to predict employee attrition risk
 - Built with **Python, Scikit-learn, XGBoost, Streamlit**
 - Helps HR teams identify at-risk employees proactively
 
-### 🏨 [SkyCity Auckland Analytics](https://github.com/manchalalokesh/SkyCity-Auckland-Analytics)
+🏨 [SkyCity Auckland Analytics](https://github.com/manchalalokesh/SkyCity-Auckland-Analytics)
 - Restaurant & bar channel performance analytics dashboard
 - Built with **Python, Pandas, Power BI**
 - Visualizes revenue trends and customer behavior insights
 
 ---
 
-## 🛠️ Skills & Tools
+🛠️ Skills & Tools
 
 
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manchalalokesh&show_icons=true&theme=tokyonight" />
@@ -100,15 +100,7 @@
 
 ---
 
-## 📬 Connect With Me
+📬 Connect With Me
 
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:manchalalokesh2@gmail.com)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/manchalalokesh)
+<a href="mailto:manchalalokesh2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/manchalalokesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
