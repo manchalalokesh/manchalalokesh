@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lokesh Manchala</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning | Python | Power BI | Streamlit</h3>
+<h3 align="center">Data Scientist | Junior ML Engineer | Python | Power BI | Streamlit</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;Python+%7C+SQL+%7C+Scikit-learn+%7C+XGBoost;Building+Real-World+ML+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Junior+ML+Engineer;Python+%7C+SQL+%7C+Scikit-learn+%7C+XGBoost;Building+Real-World+ML+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech graduate passionate about **Data Science & Machine Learning**
-- 🌍 Based in **Hyderbad, Telengana**
+- 🌍 Based in **Medchal, Hyderabad, Telangana, India**
 - 🔭 Currently building end-to-end ML projects for real-world problems
 - 💡 Interested in Predictive Modeling, Feature Engineering & Business Intelligence
 - 🎯 Looking for **Data Science / Junior ML Engineer** roles
